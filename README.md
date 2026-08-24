@@ -5,7 +5,6 @@
 - [Group Assignments]()
 - [Identity Lifecycle]()
 - [Audit Logs]()
-- [Sign-In Logs]()
 - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
