@@ -7,9 +7,9 @@
 - [Authentication](https://github.com/misslexi2567-alt/authentication.git)
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/misslexi2567-alt/virtual-machine.git)
-- [Creating and Managing Local Users]()
-- [Troubleshooting Network Connectivity]()
-- [Managing Windows Updates]()
-- [Software Installation]
+- Creating and Managing Local Users
+- Troubleshooting Network Connectivity
+- Managing Windows Updates
+- Software Installation
 - Credential Manager and Cache
 - [PowerShell](https://github.com/misslexi2567-alt/powershell.git)
