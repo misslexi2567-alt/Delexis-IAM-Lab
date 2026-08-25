@@ -6,7 +6,7 @@
 - [Audit Logs](https://github.com/misslexi2567-alt/audit-logs.git)
 - [Authentication](https://github.com/misslexi2567-alt/authentication.git)
 - <b>Deployment, Networking, Troubleshooting</b>
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/misslexi2567-alt/virtual-machine.git)
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
