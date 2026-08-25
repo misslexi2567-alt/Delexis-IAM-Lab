@@ -10,6 +10,6 @@
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
-- [Software Installation]()
+- [Software Installation]
 - Credential Manager and Cache
 - [PowerShell](https://github.com/misslexi2567-alt/powershell.git)
