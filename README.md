@@ -13,4 +13,4 @@
 - [Software Installation]()
 - [Print Queue]()
 - [Credential Manager and Cache]()
-- [PowerShell]()
+- [PowerShell](https://github.com/misslexi2567-alt/powershell.git)
