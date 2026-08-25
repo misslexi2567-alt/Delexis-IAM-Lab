@@ -11,6 +11,5 @@
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
 - [Software Installation]()
-- [Print Queue]()
-- [Credential Manager and Cache]()
+- Credential Manager and Cache
 - [PowerShell](https://github.com/misslexi2567-alt/powershell.git)
