@@ -1,11 +1,10 @@
 - <b>Microsoft Azure Entra ID</b>
 - [Creating User's in Entra ID](https://github.com/misslexi2567-alt/user-accounts.git)
-- [Cloud Provisioning - P2 Licensing]()
-- [Role Assignments]()
-- [Group Assignments]()
-- [Identity Lifecycle]()
-- [Audit Logs]()
-- [Authentication]()
+- [Cloud Provisioning - P2 Licensing](https://github.com/misslexi2567-alt/p2-licensing.git)
+- [Role Assignments](https://github.com/misslexi2567-alt/role-assignments.git)
+- [Group Assignments](https://github.com/misslexi2567-alt/group-assignments.git)
+- [Audit Logs](https://github.com/misslexi2567-alt/audit-logs.git)
+- [Authentication](https://github.com/misslexi2567-alt/authentication.git)
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
 - [Creating and Managing Local Users]()
